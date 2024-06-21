@@ -8,10 +8,10 @@ In this project I:
 * Use input and output streams
 
 To compile:
-"""
+```
 gcc -ansi -c coursework.c -o coursework.o
 gcc coursework.o -o coursework
-"""
+```
 
 I completed this project whilst undertaking the ECM2433 module at the University of Exeter - full PDF specification can be found in *specification.pdf*
 
