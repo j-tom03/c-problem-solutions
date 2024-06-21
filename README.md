@@ -9,8 +9,8 @@ In this project I:
 
 To compile:
 ```
-gcc -ansi -c coursework.c -o coursework.o
-gcc coursework.o -o coursework
+gcc -ansi -c main.c -o main.o
+gcc main.o -o main
 ```
 
 I completed this project whilst undertaking the ECM2433 module at the University of Exeter - full PDF specification can be found in *specification.pdf*
